@@ -11,7 +11,7 @@
 #### Code to run UGM structure learning algorithms on simulated traffic data from random tree network topology
 
 ## /Netflix vs Hulu/directed.R
-#### Code to run DAG structure learning algorithms on simulated traffic data
+#### Preliminary code to calculate node degree
 
 ## /Netflix vs Hulu/learn_dags_AS.R
 #### Code to run DAG structure learning algorithms on simulated traffic data from Internet Autonomous System network topology
