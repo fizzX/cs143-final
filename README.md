@@ -1,6 +1,8 @@
 # cs143-final
 ## William Drew and Clara Cousins
 
+## NOTE: File paths may need to be changed for code to run correctly
+
 ## /Netflix vs Hulu
 #### Contains files for current project
 
