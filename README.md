@@ -2,6 +2,7 @@
 ## William Drew and Clara Cousins
 
 ## NOTE: File paths may need to be changed for code to run correctly
+## Input CSVs for the learn_dags_AS.R, AS_undirected.R, and tree_undirected.R, and tree_moreseparate_make_DAGs.R are contained within /143 data
 
 ## /Netflix vs Hulu
 #### Contains files for current project
@@ -18,7 +19,7 @@
 ## /Netflix vs Hulu/learn_dags_AS.R
 #### Code to run DAG structure learning algorithms on simulated traffic data from Internet Autonomous System network topology
 
-## /Netflix vs Hulu/learn_dags_tree.R
+## /Netflix vs Hulu/tree_moreseparate_make_DAGs.R
 #### Code to run DAG structure learning algorithms on simulated traffic data from random tree network topology
 
 ## /Netflix vs Hulu/topo_generator.ipynb
