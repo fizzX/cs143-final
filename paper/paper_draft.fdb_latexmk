@@ -1,5 +1,5 @@
 # Fdb version 3
-["pdflatex"] 1575845117 "paper_draft.tex" "paper_draft.pdf" "paper_draft" 1575845118
+["pdflatex"] 1576026955 "paper_draft.tex" "paper_draft.pdf" "paper_draft" 1576026956
   "/usr/local/texlive/2017/texmf-dist/fonts/enc/dvips/base/8r.enc" 1480098666 4850 80dc9bab7f31fb78a000ccfed0e27cab ""
   "/usr/local/texlive/2017/texmf-dist/fonts/map/fontname/texfonts.map" 1480098670 3287 e6b82fe08f5336d4d5ebc73fb1152e87 ""
   "/usr/local/texlive/2017/texmf-dist/fonts/tfm/adobe/times/ptmb7t.tfm" 1480098689 2172 fd0c924230362ff848a33632ed45dc23 ""
@@ -78,16 +78,16 @@
   "/usr/local/texlive/2017/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1495593472 2350277 a699055bee05bf8a40b0504752487295 ""
   "/usr/local/texlive/2017/texmf-var/web2c/pdftex/pdflatex.fmt" 1495593487 4129592 0e6cfee100d68e6d96b92c0258f2ff73 ""
   "/usr/local/texlive/2017/texmf.cnf" 1495593465 577 2b71d4d888f9e5560b2e99985915a9fa ""
-  "images/AS_fastiamb.png" 1575843342 285882 d80358e9f03ea67cdddcb1e4c523f4ef ""
-  "images/AS_graph_random_delay_200days_equalbias.png" 1575843301 47378 da97c33d3393252528d85452af830940 ""
-  "images/edge_scores.png" 1575741505 50365 d7c966ce4ca56f83f66df68694da578f ""
-  "images/tree_fastiamb.png" 1575738904 333847 950feb36193586b6d68dc52241de359a ""
-  "images/tree_graph_random_delay_200days_equalbias.png" 1575738788 31405 98ed462997214068164e1c8596e66c0b ""
-  "paper_draft.aux" 1575845118 5414 e1b81c24e48ad3ecbd084f70bc6ca046 ""
-  "paper_draft.out" 1575845118 574 413699c370536d1516eda2cc36dc330a ""
-  "paper_draft.tex" 1575845117 27305 3ae612c56eff4e9656ddd684f691df56 ""
+  "images/AS_fastiamb.png" 1576044766 285882 d80358e9f03ea67cdddcb1e4c523f4ef ""
+  "images/AS_graph_random_delay_200days_equalbias.png" 1576044766 47378 da97c33d3393252528d85452af830940 ""
+  "images/edge_scores.png" 1576044766 454236 5ca3ff0cfdb1fb62bc5bfcdf2c167cb2 ""
+  "images/tree_fastiamb.png" 1576044766 333847 950feb36193586b6d68dc52241de359a ""
+  "images/tree_graph_random_delay_200days_equalbias.png" 1576044766 31405 98ed462997214068164e1c8596e66c0b ""
+  "paper_draft.aux" 1576026956 3807 650da5dfab922dae18cc693b75c532f9 ""
+  "paper_draft.out" 1576026956 547 234acb901b991314138d7e9556ba86e6 ""
+  "paper_draft.tex" 1576044766 23887 66b4f0caa1a2854131775cf597d4c063 ""
   (generated)
-  "paper_draft.pdf"
-  "paper_draft.out"
   "paper_draft.aux"
+  "paper_draft.pdf"
   "paper_draft.log"
+  "paper_draft.out"
